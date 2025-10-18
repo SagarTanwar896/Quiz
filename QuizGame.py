@@ -9,6 +9,8 @@ def restartt():
     st.balloons()
   else:
     st.write("Better luck next time..")
-restartt()
+
 if reset_op == True:
+  restartt()
+else:
   restartt()
