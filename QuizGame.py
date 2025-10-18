@@ -1,4 +1,4 @@
 import streamlit as st
 st.balloons()
-st.sidebar.audio()
+st.sidebar.audio_input()
 
