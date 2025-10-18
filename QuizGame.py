@@ -1,1 +1,2 @@
-streamlit.balloons()
+import streamlit as st
+st.balloons()
