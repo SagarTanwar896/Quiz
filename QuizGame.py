@@ -1,4 +1,4 @@
 import streamlit as st
 st.balloons()
-st.sidebar.markdown("Menu Screen").checkbox("A")
+st.sidebar.audio()
 
