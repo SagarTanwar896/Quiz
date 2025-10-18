@@ -1,3 +1,3 @@
 import streamlit as st
 st.balloons()
-st.sidebar()
+st.sidebar("Menu Screen")
