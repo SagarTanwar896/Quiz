@@ -1,5 +1,5 @@
 import streamlit as st
-# st.balloons()
+st.balloons()
 reset_op = st.sidebar.checkbox("RESET") 
 def restartt():
   st.write("What is first letter of alphabet? \nA) b\tB) a\t\nC) s\tD) e")
@@ -10,7 +10,7 @@ def restartt():
   else:
     st.write("Better luck next time..")
 
-if reset_op == True:
-  restartt()
+# if reset_op == True:
+#   restartt()
 
   
