@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎯 Quiz Game")
+st.title("Quiz Game")
 st.write("Answer the following 5 questions:")
 
 st.write("ques1>How many words in english Alphabets ?")
