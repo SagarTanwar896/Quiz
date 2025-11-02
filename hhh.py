@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.balloons()
 st.title("Quiz Game")
 st.write("Answer the following 5 questions:")
 
